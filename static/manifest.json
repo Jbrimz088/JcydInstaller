@@ -1,0 +1,16 @@
+{
+  "name": "Bruce CYD",
+  "version": "1.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "firmware/Bruce-CYD-2432S028.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
